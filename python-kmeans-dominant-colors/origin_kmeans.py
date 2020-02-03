@@ -1,6 +1,6 @@
 # USAGE
 # python color_kmeans.py --image images/jp.png --clusters 3
-
+#Capstone
 # import the necessary packages
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
